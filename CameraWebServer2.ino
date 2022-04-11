@@ -7,10 +7,9 @@
 // ********* Camera and Wifi **********
 #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 #include "camera_pins.h"
-const char* ssid = "kurb_ext";
-const char* password = "!Love3Dx";
-//const char* ssid = "kurb17";
-//const char* password = "34T?bX19";
+const char* ssid = "my_wifi";
+const char* password = "password";
+
 
 void startCameraServer();
 
